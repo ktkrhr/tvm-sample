@@ -26,6 +26,6 @@ termcolor==1.1.0
 #topi==0.7.dev0
 tornado==6.0.3
 #tvm==0.7.dev0
-Werkzeug==1.0.0
+Werkzeug==2.2.3
 wrapt==1.11.2
 xgboost==0.90
